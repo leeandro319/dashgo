@@ -1,4 +1,4 @@
-import Link, { LinkProps } from "next/Link";
+import Link, { LinkProps } from "next/link";
 import { useRouter } from "next/router";
 import { cloneElement, ReactElement } from "react";
 
